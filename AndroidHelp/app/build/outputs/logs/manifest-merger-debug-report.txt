@@ -1,0 +1,497 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:2:1-40:12
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\5384f1f4cc6c19e6c7da1ada73678f02\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-database-11.8.0.aar\45c9bcf84d58e0ecd0298223aa37fa81\AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\396c5120d415404e199e171cf182ff40\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:design:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d0eb3785a1b42569c4da1e9ce671cde8\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\5b9a8e32d0c31e8471eed36450adeac8\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\98fffa51ff9626b79d3b101c4f99c435\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\041c27edbbcc179c88c762b3b582c27a\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fc5e35dad178b6fc8701ef2e608a7b7e\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\8f055a5a48b9f97fb0e282046b8ae7b8\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.8.0.aar\45970f418dc1a123a79831516d0f7ec7\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\7ff2162194c4d90ee8ae9fa8f4f178a4\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\2502d1687bafffff040581a749694709\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\ff2a4c6b7102a4aa56adc347efe89b54\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\a0da59032a47c87b1caab353fb498fbe\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\05d3345dd4ce4b9acd0e22e9ad687ea8\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\a7b25623ef990f7290387b035acb13fe\AndroidManifest.xml:2:1-6:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\19f6883ad6158a74e39e49447197a10b\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\cb2e3198f6fd483501ca680fd79878b3\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9841afd87c7b41fb6731564c9c48f775\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5ce6b20ec699213bf2ac008d3a068e3d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\609f1179449d5ac54dca6eb249e92810\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\87d9b03d579757f330f206973318f967\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\4cc9a7fd9ffc33c704ff9a12c7ea9c49\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\340f06f555962d62676e8a91caa8ec4e\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\fb34aa63596c08089b7dee10950661a7\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\a1fefa4f9a74ab91be87b6b20d2178ba\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\fd298193fef0212c2198790ff3260269\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\ab5fdf10a5d43ae49dbbdc9ad6a558ac\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\4c727cc25d6aa58615f7714237bcc98a\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\f798a2c5c268a6e854db0a982fac170d\AndroidManifest.xml:2:1-6:12
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b00d162c53710bd517b502c279f35a9e\AndroidManifest.xml:17:1-30:12
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\00e01c1d1b5082797a60e07225f265c3\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\8f5e4d618cd49f2b40eab86ac76332ce\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\8489e4c4c1b2eb14109923c73e660cec\AndroidManifest.xml:2:1-6:12
+INJECTED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:2:1-40:12
+INJECTED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:2:1-40:12
+	package
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:2:1-40:12
+		INJECTED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:5:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\7ff2162194c4d90ee8ae9fa8f4f178a4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\7ff2162194c4d90ee8ae9fa8f4f178a4\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:6:22-76
+uses-permission#android.permission.SEND_SMS
+ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:7:5-66
+	android:name
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.CALL_PHONE
+ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:8:22-66
+application
+ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:10:5-38:19
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\5384f1f4cc6c19e6c7da1ada73678f02\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\5384f1f4cc6c19e6c7da1ada73678f02\AndroidManifest.xml:22:5-30:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\396c5120d415404e199e171cf182ff40\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\396c5120d415404e199e171cf182ff40\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d0eb3785a1b42569c4da1e9ce671cde8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d0eb3785a1b42569c4da1e9ce671cde8\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\5b9a8e32d0c31e8471eed36450adeac8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\5b9a8e32d0c31e8471eed36450adeac8\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\98fffa51ff9626b79d3b101c4f99c435\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\98fffa51ff9626b79d3b101c4f99c435\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\041c27edbbcc179c88c762b3b582c27a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\041c27edbbcc179c88c762b3b582c27a\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fc5e35dad178b6fc8701ef2e608a7b7e\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fc5e35dad178b6fc8701ef2e608a7b7e\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\8f055a5a48b9f97fb0e282046b8ae7b8\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\8f055a5a48b9f97fb0e282046b8ae7b8\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\7ff2162194c4d90ee8ae9fa8f4f178a4\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\7ff2162194c4d90ee8ae9fa8f4f178a4\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\2502d1687bafffff040581a749694709\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\2502d1687bafffff040581a749694709\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\ff2a4c6b7102a4aa56adc347efe89b54\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\ff2a4c6b7102a4aa56adc347efe89b54\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\a0da59032a47c87b1caab353fb498fbe\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\a0da59032a47c87b1caab353fb498fbe\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\05d3345dd4ce4b9acd0e22e9ad687ea8\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\05d3345dd4ce4b9acd0e22e9ad687ea8\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\a7b25623ef990f7290387b035acb13fe\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\a7b25623ef990f7290387b035acb13fe\AndroidManifest.xml:5:5-20
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\19f6883ad6158a74e39e49447197a10b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\19f6883ad6158a74e39e49447197a10b\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\cb2e3198f6fd483501ca680fd79878b3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\cb2e3198f6fd483501ca680fd79878b3\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9841afd87c7b41fb6731564c9c48f775\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9841afd87c7b41fb6731564c9c48f775\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5ce6b20ec699213bf2ac008d3a068e3d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5ce6b20ec699213bf2ac008d3a068e3d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\609f1179449d5ac54dca6eb249e92810\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\609f1179449d5ac54dca6eb249e92810\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\87d9b03d579757f330f206973318f967\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\87d9b03d579757f330f206973318f967\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\4cc9a7fd9ffc33c704ff9a12c7ea9c49\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\4cc9a7fd9ffc33c704ff9a12c7ea9c49\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\340f06f555962d62676e8a91caa8ec4e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\340f06f555962d62676e8a91caa8ec4e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\fb34aa63596c08089b7dee10950661a7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\fb34aa63596c08089b7dee10950661a7\AndroidManifest.xml:25:5-29:19
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\a1fefa4f9a74ab91be87b6b20d2178ba\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\a1fefa4f9a74ab91be87b6b20d2178ba\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\fd298193fef0212c2198790ff3260269\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\fd298193fef0212c2198790ff3260269\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\ab5fdf10a5d43ae49dbbdc9ad6a558ac\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\ab5fdf10a5d43ae49dbbdc9ad6a558ac\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\4c727cc25d6aa58615f7714237bcc98a\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\4c727cc25d6aa58615f7714237bcc98a\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\f798a2c5c268a6e854db0a982fac170d\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\f798a2c5c268a6e854db0a982fac170d\AndroidManifest.xml:5:5-20
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b00d162c53710bd517b502c279f35a9e\AndroidManifest.xml:24:5-28:19
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b00d162c53710bd517b502c279f35a9e\AndroidManifest.xml:24:5-28:19
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\00e01c1d1b5082797a60e07225f265c3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\00e01c1d1b5082797a60e07225f265c3\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\8f5e4d618cd49f2b40eab86ac76332ce\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\8f5e4d618cd49f2b40eab86ac76332ce\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\8489e4c4c1b2eb14109923c73e660cec\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\8489e4c4c1b2eb14109923c73e660cec\AndroidManifest.xml:5:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:15:9-35
+	android:label
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:13:9-41
+	android:roundIcon
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:14:9-54
+	android:icon
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:12:9-43
+	android:allowBackup
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:11:9-35
+	android:theme
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:16:9-40
+activity#com.example.nitin.help.MainActivity
+ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:17:9-23:20
+	android:name
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:17:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:21:27-74
+activity#com.example.nitin.help.Main2Activity
+ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:24:9-51
+	android:name
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:24:19-48
+meta-data#preloaded_fonts
+ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:26:9-28:57
+	android:resource
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:28:13-54
+	android:name
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:27:13-43
+activity#com.example.nitin.help.Main3Activity
+ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:30:9-51
+	android:name
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:30:19-48
+activity#com.example.nitin.help.LocationProvideActivity
+ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:31:9-34:47
+	android:label
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:33:13-68
+	android:theme
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:34:13-44
+	android:name
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:32:13-52
+activity#com.example.nitin.help.Login_mail
+ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:35:9-48
+	android:name
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:35:19-45
+activity#com.example.nitin.help.profile_activity
+ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:36:9-63
+	android:name
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:36:19-51
+activity#com.example.nitin.help.DashBoard
+ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:37:9-46
+	android:name
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml:37:19-44
+uses-sdk
+INJECTED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\5384f1f4cc6c19e6c7da1ada73678f02\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\5384f1f4cc6c19e6c7da1ada73678f02\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-database-11.8.0.aar\45c9bcf84d58e0ecd0298223aa37fa81\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-database-11.8.0.aar\45c9bcf84d58e0ecd0298223aa37fa81\AndroidManifest.xml:6:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\396c5120d415404e199e171cf182ff40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\396c5120d415404e199e171cf182ff40\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d0eb3785a1b42569c4da1e9ce671cde8\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d0eb3785a1b42569c4da1e9ce671cde8\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\5b9a8e32d0c31e8471eed36450adeac8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\5b9a8e32d0c31e8471eed36450adeac8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\98fffa51ff9626b79d3b101c4f99c435\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-core-11.8.0.aar\98fffa51ff9626b79d3b101c4f99c435\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\041c27edbbcc179c88c762b3b582c27a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\041c27edbbcc179c88c762b3b582c27a\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fc5e35dad178b6fc8701ef2e608a7b7e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\fc5e35dad178b6fc8701ef2e608a7b7e\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\8f055a5a48b9f97fb0e282046b8ae7b8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\8f055a5a48b9f97fb0e282046b8ae7b8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.8.0.aar\45970f418dc1a123a79831516d0f7ec7\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-11.8.0.aar\45970f418dc1a123a79831516d0f7ec7\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\7ff2162194c4d90ee8ae9fa8f4f178a4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\7ff2162194c4d90ee8ae9fa8f4f178a4\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\2502d1687bafffff040581a749694709\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\2502d1687bafffff040581a749694709\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\ff2a4c6b7102a4aa56adc347efe89b54\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-tasks-11.8.0.aar\ff2a4c6b7102a4aa56adc347efe89b54\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\a0da59032a47c87b1caab353fb498fbe\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\a0da59032a47c87b1caab353fb498fbe\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\05d3345dd4ce4b9acd0e22e9ad687ea8\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-auth-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-11.8.0.aar\05d3345dd4ce4b9acd0e22e9ad687ea8\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\a7b25623ef990f7290387b035acb13fe\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-database-license-11.8.0.aar\a7b25623ef990f7290387b035acb13fe\AndroidManifest.xml:4:5-43
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\19f6883ad6158a74e39e49447197a10b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\19f6883ad6158a74e39e49447197a10b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\cb2e3198f6fd483501ca680fd79878b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\cb2e3198f6fd483501ca680fd79878b3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9841afd87c7b41fb6731564c9c48f775\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9841afd87c7b41fb6731564c9c48f775\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5ce6b20ec699213bf2ac008d3a068e3d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5ce6b20ec699213bf2ac008d3a068e3d\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\609f1179449d5ac54dca6eb249e92810\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\609f1179449d5ac54dca6eb249e92810\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\87d9b03d579757f330f206973318f967\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\87d9b03d579757f330f206973318f967\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\4cc9a7fd9ffc33c704ff9a12c7ea9c49\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\4cc9a7fd9ffc33c704ff9a12c7ea9c49\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\340f06f555962d62676e8a91caa8ec4e\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\340f06f555962d62676e8a91caa8ec4e\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\fb34aa63596c08089b7dee10950661a7\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\fb34aa63596c08089b7dee10950661a7\AndroidManifest.xml:21:5-23:58
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\a1fefa4f9a74ab91be87b6b20d2178ba\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-base-license-11.8.0.aar\a1fefa4f9a74ab91be87b6b20d2178ba\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\fd298193fef0212c2198790ff3260269\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-11.8.0.aar\fd298193fef0212c2198790ff3260269\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\ab5fdf10a5d43ae49dbbdc9ad6a558ac\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-common-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-common-license-11.8.0.aar\ab5fdf10a5d43ae49dbbdc9ad6a558ac\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\4c727cc25d6aa58615f7714237bcc98a\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-11.8.0.aar\4c727cc25d6aa58615f7714237bcc98a\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\f798a2c5c268a6e854db0a982fac170d\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-database-connection-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-11.8.0.aar\f798a2c5c268a6e854db0a982fac170d\AndroidManifest.xml:4:5-43
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b00d162c53710bd517b502c279f35a9e\AndroidManifest.xml:20:5-22:41
+MERGED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b00d162c53710bd517b502c279f35a9e\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\00e01c1d1b5082797a60e07225f265c3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-11.8.0.aar\00e01c1d1b5082797a60e07225f265c3\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\8f5e4d618cd49f2b40eab86ac76332ce\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-analytics-impl-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-11.8.0.aar\8f5e4d618cd49f2b40eab86ac76332ce\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\8489e4c4c1b2eb14109923c73e660cec\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-iid-license:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-11.8.0.aar\8489e4c4c1b2eb14109923c73e660cec\AndroidManifest.xml:4:5-43
+INJECTED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d0eb3785a1b42569c4da1e9ce671cde8\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Nitin\Desktop\Help\AndroidHelp\app\src\main\AndroidManifest.xml
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\5384f1f4cc6c19e6c7da1ada73678f02\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\5384f1f4cc6c19e6c7da1ada73678f02\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\5384f1f4cc6c19e6c7da1ada73678f02\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\5384f1f4cc6c19e6c7da1ada73678f02\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\5384f1f4cc6c19e6c7da1ada73678f02\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\5384f1f4cc6c19e6c7da1ada73678f02\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-auth-11.8.0.aar\5384f1f4cc6c19e6c7da1ada73678f02\AndroidManifest.xml:24:13-85
+meta-data#android.support.VERSION
+ADDED from [com.android.support:cardview-v7:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\396c5120d415404e199e171cf182ff40\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:design:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d0eb3785a1b42569c4da1e9ce671cde8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:design:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\design-26.1.0.aar\d0eb3785a1b42569c4da1e9ce671cde8\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\5b9a8e32d0c31e8471eed36450adeac8\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.1.0.aar\5b9a8e32d0c31e8471eed36450adeac8\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\041c27edbbcc179c88c762b3b582c27a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\041c27edbbcc179c88c762b3b582c27a\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\19f6883ad6158a74e39e49447197a10b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\19f6883ad6158a74e39e49447197a10b\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\cb2e3198f6fd483501ca680fd79878b3\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\transition-26.1.0.aar\cb2e3198f6fd483501ca680fd79878b3\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9841afd87c7b41fb6731564c9c48f775\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-v4-26.1.0.aar\9841afd87c7b41fb6731564c9c48f775\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5ce6b20ec699213bf2ac008d3a068e3d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-fragment-26.1.0.aar\5ce6b20ec699213bf2ac008d3a068e3d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\609f1179449d5ac54dca6eb249e92810\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.1.0.aar\609f1179449d5ac54dca6eb249e92810\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\87d9b03d579757f330f206973318f967\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\87d9b03d579757f330f206973318f967\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\4cc9a7fd9ffc33c704ff9a12c7ea9c49\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.1.0.aar\4cc9a7fd9ffc33c704ff9a12c7ea9c49\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\340f06f555962d62676e8a91caa8ec4e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.1.0.aar\340f06f555962d62676e8a91caa8ec4e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\fb34aa63596c08089b7dee10950661a7\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\support-compat-26.1.0.aar\fb34aa63596c08089b7dee10950661a7\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:cardview-v7:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\396c5120d415404e199e171cf182ff40\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:cardview-v7:26.1.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.1.0.aar\396c5120d415404e199e171cf182ff40\AndroidManifest.xml:24:13-51
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\8f055a5a48b9f97fb0e282046b8ae7b8\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\8f055a5a48b9f97fb0e282046b8ae7b8\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\8f055a5a48b9f97fb0e282046b8ae7b8\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-base-11.8.0.aar\8f055a5a48b9f97fb0e282046b8ae7b8\AndroidManifest.xml:24:13-79
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\7ff2162194c4d90ee8ae9fa8f4f178a4\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\7ff2162194c4d90ee8ae9fa8f4f178a4\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:24:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\7ff2162194c4d90ee8ae9fa8f4f178a4\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\7ff2162194c4d90ee8ae9fa8f4f178a4\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:25:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\7ff2162194c4d90ee8ae9fa8f4f178a4\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\7ff2162194c4d90ee8ae9fa8f4f178a4\AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:34:13-100
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\7ff2162194c4d90ee8ae9fa8f4f178a4\AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-11.8.0.aar\7ff2162194c4d90ee8ae9fa8f4f178a4\AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-analytics-11.8.0.aar\a28626f22097c979009d5d723f951aad\AndroidManifest.xml:48:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:26:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:29:9-63
+permission#com.example.nitin.help.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:32:22-76
+uses-permission#com.example.nitin.help.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:36:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:39:13-43:29
+intent-filter#com.example.nitin.help+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:42:27-58
+category#com.example.nitin.help
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:51:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-iid-11.8.0.aar\78f3a72b55f5579a2c5328c84b283df2\AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\2502d1687bafffff040581a749694709\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\2502d1687bafffff040581a749694709\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\2502d1687bafffff040581a749694709\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\2502d1687bafffff040581a749694709\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\firebase-common-11.8.0.aar\2502d1687bafffff040581a749694709\AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\a0da59032a47c87b1caab353fb498fbe\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\a0da59032a47c87b1caab353fb498fbe\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.8.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\play-services-basement-11.8.0.aar\a0da59032a47c87b1caab353fb498fbe\AndroidManifest.xml:24:13-58
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b00d162c53710bd517b502c279f35a9e\AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b00d162c53710bd517b502c279f35a9e\AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [android.arch.lifecycle:runtime:1.0.0] C:\Users\Nitin\.gradle\caches\transforms-1\files-1.1\runtime-1.0.0.aar\b00d162c53710bd517b502c279f35a9e\AndroidManifest.xml:26:13-58

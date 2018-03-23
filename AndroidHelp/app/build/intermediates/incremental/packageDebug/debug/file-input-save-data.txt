@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Thu Feb 08 02:10:55 IST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Nitin\\Desktop\\Help\\AndroidHelp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\37
+0.path=classes.dex
+0.set=DEX
+count=1

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HELP</string>
+    <string name="title_activity_location_provide">LocationProvideActivity</string>
+</resources>

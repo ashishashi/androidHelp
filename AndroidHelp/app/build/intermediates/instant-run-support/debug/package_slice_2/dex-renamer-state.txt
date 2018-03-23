@@ -1,0 +1,4 @@
+#Thu Feb 08 01:15:21 IST 2018
+base.0=C\:\\Users\\Nitin\\Desktop\\Help\\AndroidHelp\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\21
+path.0=classes.dex
+renamed.0=classes.dex
