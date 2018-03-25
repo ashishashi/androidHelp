@@ -1,7 +1,7 @@
 # androidHelp
 HELP helps you in any type of emergency, you just have to click a button and your live location will be shared to the desired peson/ community.
 and can be send through any means like messsage form whatsapp fb, messenger, or any instant message service
-Either you can register as a new user or you can login. For preregistered user, use credentials : please use id- "help@gmail.com" password- "enterhelp" .
+You can register as a new user or you can login. 
 On entering, there are several options which will be operable according to your need.
 For a crime emergency, you can call/message police and accordingly to a Hospital, Fire Brigade and home. 
 As in emergency, we cannot type a message or dial a number, we have a preloaded message that will be sent to desired number that you have entered and you can call the nearest hospital/fire station/police station on a button press and your live location will be shared with them.
